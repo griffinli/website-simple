@@ -11,7 +11,7 @@ export default function Home() {
 
             <h2 className={"font-semibold text-2xl mt-10"}>About</h2>
             <p>{"I'm in 12th grade at "}<a href={"https://exeter.edu"}>Phillips Exeter Academy.</a></p>
-            <p>{"I'm an intern at "}<a href={"https://www.beeper.com"}>Beeper</a>.</p>
+            <p>{"I intern at "}<a href={"https://www.beeper.com"}>Beeper</a>.</p>
 
             <h2 className={"font-semibold text-2xl mt-10"}>Projects</h2>
             <p>A <a href={"https://www.polar.cx"}>tech support chatbot</a> that finds answers from internet forums</p>
