@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Home() {
     return (
         <main className={"mt-24 md:mt-40 mx-10 sm:ml-20 md:ml-40 lg:ml-60 xl:ml-96 max-w-4xl"}>
