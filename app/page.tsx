@@ -1,7 +1,7 @@
 export default function Home() {
     return (
-        <main className={"mt-24 md:mt-40 mx-10 sm:ml-20 md:ml-40 lg:ml-60 xl:ml-96 max-w-4xl"}>
-            <h1 className={"font-bold text-7xl"}>Griffin Li</h1>
+        <main className={"mt-10 sm:mt-24 md:mt-40 mx-5 sm:ml-20 md:ml-40 lg:ml-60 xl:ml-96 max-w-4xl"}>
+            <h1 className={"font-bold text-5xl sm:text-7xl"}>Griffin Li</h1>
 
             <h2 className={"font-semibold text-2xl mt-10"}>Contact</h2>
             <a className={"block"} href={"mailto:griffin@griffinli.com"}>griffin@griffinli.com</a>
